@@ -79,7 +79,18 @@ Let'sChat may update this Privacy Policy periodically. We will notify you of any
 
 ---
 
-## 9. Contact Us
+## 9. Account Deletion
+Users can request the deletion of their account directly within the Let'sChat app. To delete your account, follow these steps:
+
+    Go to the Settings section of the app.
+    Click on the Delete Account button.
+    Confirm your choice by selecting Yes when prompted.
+
+If you have any issues or need further assistance, please contact us at funroboticshere@gmail.com.
+
+---
+
+## 10. Contact Us
 
 If you have any questions about this Privacy Policy, please contact us at:
 
